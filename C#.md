@@ -214,10 +214,6 @@ Console.Write( arr[1,0] );
 
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MyApp1
 {
@@ -330,6 +326,7 @@ namespace MyApp1
         }
     }
 }
+
 
 
 1、	面向对象设计思想使用三种基本的设计手段：封装、继承、多态来模拟现实世界的事物。
