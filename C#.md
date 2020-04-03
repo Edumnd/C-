@@ -981,7 +981,7 @@ var dogCage = new Cage<Dog>();
 然后泛型类定义的方法是：/T是一中类型，可能是猫啊狗啊的。然后根据这个传递的类型，其实有点类似于实参，然后我们去创建出不哦她那个的对象来进行处理，可以减少编写重复的代码
 
 完整实例代码：
-using System
+using System;
 namespace MyArrayApplication
 {
     public class Array<T>
@@ -1001,19 +1001,19 @@ namespace MyArrayApplication
             a[index] = value;
         }
     }
-    public class Print 
+    public class Print
     {
         static void Main(string[] args)
         {
-           
+
             Array<char> b = new Array<char>(5);
             for (int i = 0; i < 5; i++)
             {
                 b.SetArray(i, (char)(i + 98));
-                Console.Write(b.GetArray(i)+" ");             
+                Console.Write(b.GetArray(i) + " ");
             }
             Array<double> d = new Array<double>(20);
-            for (int k = 0; k< 20; k++)
+            for (int k = 0; k < 20; k++)
             {
                 d.SetArray(k, Convert.ToDouble(k + 5.2));
                 Console.Write(d.GetArray(k) + " ");
