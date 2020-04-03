@@ -1,0 +1,6 @@
+C:\Users\GYL\source\repos\MyApp1\bin\Debug\MyApp1.exe.config
+C:\Users\GYL\source\repos\MyApp1\bin\Debug\MyApp1.exe
+C:\Users\GYL\source\repos\MyApp1\bin\Debug\MyApp1.pdb
+C:\Users\GYL\source\repos\MyApp1\obj\Debug\MyApp1.csprojAssemblyReference.cache
+C:\Users\GYL\source\repos\MyApp1\obj\Debug\MyApp1.exe
+C:\Users\GYL\source\repos\MyApp1\obj\Debug\MyApp1.pdb
