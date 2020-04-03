@@ -1,0 +1,7 @@
+C:\Users\GYL\source\repos\Kindergarten\bin\Debug\Kindergarten.exe.config
+C:\Users\GYL\source\repos\Kindergarten\bin\Debug\Kindergarten.exe
+C:\Users\GYL\source\repos\Kindergarten\bin\Debug\Kindergarten.pdb
+C:\Users\GYL\source\repos\Kindergarten\obj\Debug\Kindergarten.csprojAssemblyReference.cache
+C:\Users\GYL\source\repos\Kindergarten\obj\Debug\Kindergarten.exe
+C:\Users\GYL\source\repos\Kindergarten\obj\Debug\Kindergarten.pdb
+C:\Users\GYL\source\repos\Kindergarten\obj\Debug\Kindergarten.csproj.CoreCompileInputs.cache
